@@ -1,0 +1,11 @@
+FASTAPI[all]
+langchain
+langchain-openai
+langchain-community
+langgraph
+psycopg2-binary
+sqlalchemy
+pandas
+faiss-cpu
+python-dotenv
+tabulate

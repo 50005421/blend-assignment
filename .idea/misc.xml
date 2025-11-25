@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (assignment)" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e8bcff9e-3cb4-407e-8b9e-187ca038111c" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (assignment)" project-jdk-type="Python SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
